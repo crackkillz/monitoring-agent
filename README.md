@@ -5,9 +5,11 @@ Here’s a more detailed version of the `README.md` that includes full setup ins
 ```markdown
 # 👁️‍🗨️ Windows Monitoring Agent
 
-A lightweight Python-based system monitoring agent for Windows. Captures keystrokes, clipboard contents, screenshots, and active window titles. Automatically persists on reboot and uploads logs to a remote server for centralized monitoring.
+A lightweight Python-based system monitoring agent for Windows. Captures keystrokes, clipboard contents, screenshots,
+and active window titles. Automatically persists on reboot and uploads logs to a remote server for centralized monitoring.
 
-> ⚠️ **Disclaimer**: This tool is intended strictly for ethical use such as internal system monitoring, employee supervision with consent, or educational purposes. Unauthorized use may be illegal.
+> ⚠️ **Disclaimer**: This tool is intended strictly for ethical use such as internal system monitoring, employee
+supervision with consent, or educational purposes. Unauthorized use may be illegal.
 
 ---
 
