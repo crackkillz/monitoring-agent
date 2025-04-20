@@ -1,0 +1,6 @@
+pynput
+pyautogui
+requests
+psutil
+pywin32
+flask
